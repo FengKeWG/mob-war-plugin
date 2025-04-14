@@ -138,6 +138,7 @@ public class Blaze implements Listener {
         Players.addTaskToPlayer(player, task);
     }
 
+    //发创建火焰圈
     private static void createFireCircle(Player player) {
         UUID playerUUID = player.getUniqueId();
         HashSet<Location> fireLocations = new HashSet<>();
