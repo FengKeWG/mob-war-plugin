@@ -1,0 +1,9 @@
+name: MobWar
+version: '2.0.0'
+main: org.windguest.mobwar.Main
+api-version: '1.21'
+depend: [LibsDisguises]
+commands:
+  mobwar:
+
+
