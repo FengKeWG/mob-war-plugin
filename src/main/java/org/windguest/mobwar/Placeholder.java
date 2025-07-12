@@ -3,9 +3,9 @@ package org.windguest.mobwar;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
-import org.windguest.mobwar.Events.EventsMain;
-import org.windguest.mobwar.Games.Jobs;
-import org.windguest.mobwar.Games.Players;
+import org.windguest.mobwar.events.EventsMain;
+import org.windguest.mobwar.games.Jobs;
+import org.windguest.mobwar.games.Players;
 
 public class Placeholder extends PlaceholderExpansion {
     @Override

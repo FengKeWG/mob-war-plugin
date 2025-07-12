@@ -2,14 +2,14 @@ package org.windguest.mobwar;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.windguest.mobwar.Events.EventsMain;
-import org.windguest.mobwar.Games.Bounty;
-import org.windguest.mobwar.Games.Disguise;
-import org.windguest.mobwar.Games.Entities;
-import org.windguest.mobwar.Games.Water;
-import org.windguest.mobwar.Mobs.*;
-import org.windguest.mobwar.Events.*;
-import org.windguest.mobwar.Listener.*;
+import org.windguest.mobwar.events.EventsMain;
+import org.windguest.mobwar.games.Bounty;
+import org.windguest.mobwar.games.Disguise;
+import org.windguest.mobwar.games.Entities;
+import org.windguest.mobwar.games.Water;
+import org.windguest.mobwar.mobs.*;
+import org.windguest.mobwar.events.*;
+import org.windguest.mobwar.listener.*;
 
 public class Main extends JavaPlugin {
 

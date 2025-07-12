@@ -5,8 +5,160 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fa19d9a-6379-43b1-9dd2-7328eee8e78c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/CommandsManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/FilesManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/LibsDisguises.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/LibsDisguises.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Commands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/Crazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/Crazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/End.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/End.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/EventsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/EventsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/Sky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/Sky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/Spawner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/Spawner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Events/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/events/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Blocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Bounty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Bounty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Disguise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Disguise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Edit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Emerald.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Emerald.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Energy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Energy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Entities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Entities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Jobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Jobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Games/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/games/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerDamage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerDeath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerDeath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerInteract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerInteract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerOthers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerOthers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerProjectile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerProjectile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Listener/ListenerQuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/listener/ListenerQuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Blaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Blaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Breeze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Breeze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Creeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Creeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Drowned.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Drowned.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/EnderMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/EnderMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Evoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Evoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Ghast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Ghast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Goat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Goat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Guardian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Guardian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Illusioners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Illusioners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Piglin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Piglin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Skeletons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Skeletons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Sniffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Sniffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Squid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Squid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Trader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Trader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Vindicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Vindicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Warden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Warden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Mobs/Wither.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/mobs/Wither.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Placeholder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/windguest/mobwar/Placeholder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MobWar-2.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MobWar-2.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Commands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Crazy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Crazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Crazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Dragon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Dragon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Dragon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Dragon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/End$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/End.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/End.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/EventsMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/EventsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/EventsMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Sky$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Sky.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Sky.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Spawner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Spawner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Spawner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Team$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Events/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Files.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Blocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Blocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Bounty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Bounty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Disguise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Disguise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Edit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Edit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Emerald.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Emerald.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Energy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Energy$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Energy$Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Energy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Energy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Entities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Entities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Items$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Items$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Items.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Jobs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Jobs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Players$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Water$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Water.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Games/Water.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDamage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDamage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDamage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDeath$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDeath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerDeath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerInteract.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerInteract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerJoin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove$Area$EffectType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove$Area$EffectType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove$Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove$Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerMove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerOthers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerOthers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerProjectile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerProjectile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerQuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Listener/ListenerQuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Blaze$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Blaze$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Blaze$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Blaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Blaze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Breeze$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Breeze$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Breeze$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Breeze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Breeze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Creeper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Creeper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Creeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Creeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Drowned.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Drowned.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/EnderMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/EnderMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Evoker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Evoker$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Evoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Evoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Ghast$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Ghast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Ghast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Goat$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Goat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Goat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Guardian$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Guardian$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Guardian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Guardian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Illusioners$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Illusioners$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Illusioners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Illusioners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Piglin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Piglin$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Piglin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Piglin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Skeletons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Sniffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Sniffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Squid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Trader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Trader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Trader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Vindicator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Vindicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Vindicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Warden$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Warden$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Warden$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Warden.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Warden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Wither.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Mobs/Wither.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Placeholder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/windguest/mobwar/Placeholder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-MobWar-2.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-MobWar-2.0.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +175,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FengKeWG"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FengKeWG&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FengKeWG/mob-war-plugin.git",
-    "accountId": "735f8305-07b3-4bc6-b3e6-6434682eac88"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FengKeWG/mob-war-plugin.git&quot;,
+    &quot;accountId&quot;: &quot;735f8305-07b3-4bc6-b3e6-6434682eac88&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -43,28 +195,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.MobWar package.executor": "Run",
-    "Maven.Mobs package.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Codes/Java/MobWar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.MobWar package.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Mobs package.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codes/Java/MobWar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\小米云盘\Codes\Java\MobWar\libs" />
@@ -111,8 +263,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -344,6 +496,14 @@
       <workItem from="1747224999373" duration="1655000" />
       <workItem from="1747272853360" duration="758000" />
       <workItem from="1750583022485" duration="59000" />
+      <workItem from="1750583446880" duration="44000" />
+      <workItem from="1751372418287" duration="271000" />
+      <workItem from="1751692616916" duration="131000" />
+      <workItem from="1751736433318" duration="21000" />
+      <workItem from="1752118222931" duration="62000" />
+      <workItem from="1752123060878" duration="32000" />
+      <workItem from="1752123556531" duration="16000" />
+      <workItem from="1752318876414" duration="476000" />
     </task>
     <servers />
   </component>

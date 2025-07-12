@@ -6,9 +6,9 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.command.TabCompleter;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
-import org.windguest.mobwar.Games.Edit;
-import org.windguest.mobwar.Games.Jobs;
-import org.windguest.mobwar.Games.Players;
+import org.windguest.mobwar.games.Edit;
+import org.windguest.mobwar.games.Jobs;
+import org.windguest.mobwar.games.Players;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -60,13 +60,36 @@ public class Commands implements CommandExecutor, TabCompleter {
 
     @Override
     public List<String> onTabComplete(@NotNull CommandSender sender, @NotNull Command command, @NotNull String alias, String[] args) {
-        if (args.length != 1) {
-            return new ArrayList<>();
-        }
-        List<String> completions = new ArrayList<>(allCommands);
-        String partial = args[0].toLowerCase();
-        completions.removeIf(cmd -> !cmd.toLowerCase().startsWith(partial));
+        List<String> completions = new ArrayList<>();
 
-        return completions;
+        // 第一参数补全
+        if (args.length == 1) {
+            completions.addAll(allCommands);
+            String partial = args[0].toLowerCase();
+            completions.removeIf(cmd -> !cmd.toLowerCase().startsWith(partial));
+            return completions;
+        }
+
+        // 第二参数补全，根据第一参数上下文提供
+        if (args.length == 2) {
+            String first = args[0].toLowerCase();
+            String partial = args[1];
+            switch (first) {
+                case "edit":
+                case "clear":
+                case "job":
+                case "jobnotp":
+                    completions.addAll(Jobs.getAllJobNames());
+                    break;
+                case "stars":
+                    completions.addAll(Arrays.asList("1", "5", "10", "20", "50", "100"));
+                    break;
+                default:
+                    return completions; // 其他命令无二级补全
+            }
+            completions.removeIf(s -> !s.startsWith(partial));
+            return completions;
+        }
+        return completions; // 其他参数长度无补全
     }
 }
